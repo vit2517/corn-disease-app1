@@ -1,1 +1,1 @@
-# corn-disease-app1
+# corn-disease-app-1
